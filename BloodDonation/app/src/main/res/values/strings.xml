@@ -1,0 +1,117 @@
+<resources>
+
+
+    <string name="app_name">BloodDonation</string>
+    <string name="email_name">Enter your registered Email Id</string>
+    <string name="email">Enter your Email Id</string>
+    <string name="password_name">Enter your password</string>
+    <string name="welcome">Welcome,</string>
+    <string name="sign_in">Sign in to continue</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="register">Register Here</string>
+    <string name="account">Dont have an account?</string>
+    <string name="title_activity_options">Blood Donation Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Blood Donation Application</string>
+    <string name="nav_header_subtitle">Developed by:Sonam Shadija</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="general">General</string>
+    <string name="changepass">Change Password</string>
+    <string name="feedback">Feedback</string>
+    <string name="forgotpass">Forgot Password</string>
+    <string name="logout">Logout</string>
+    <string name="version">Version 1.0</string>
+    <string name="title_activity_blood_request">blood_request</string>
+    <string name="title_home">Near By</string>
+    <string name="title_dashboard">My Request</string>
+    <string name="title_notifications">Create Request</string>
+    <string name="switch1">Available for Donations</string>
+    <string name="frgtpass">Forgot Password?</string>
+    <string name="fullname">Full name</string>
+    <string name="address">Address</string>
+    <string name="blood_group">Blood Group</string>
+
+    <string name="pincode">Pincode</string>
+    <string name="already">Already registered.Login!!</string>
+    <string name="sentence">We need your registered Email Id to send
+        you password reset instructions</string>
+    <string name="reset">Reset Password</string>
+
+    <!--Strings for request holder-->
+    <string name="name">My name</string>
+    <string name="bloodtype">Type</string>
+    <string name="capacity">Blood Capacity</string>
+
+    <!-- TODO: fragement_create_request -->
+    <string name="patient_name">Patient Name</string>
+    <string name="mobile_no">Enter Your Mobile No</string>
+    <string name="date">Date</string>
+    <string name="addr">Address</string>
+    <string name="city">City</string>
+    <string name="save">Save</string>
+
+    <!-- TODO: feedback -->
+    <string name="subject">Enter Subject Here</string>
+    <string name="message">Enter Your Message Here</string>
+    <string name="submit">Submit</string>
+
+    <!-- activity change password-->
+    <string name="sent1">Need To Change Password?</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="change">Change</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- details activity-->
+    <string name="nam">Enter your name</string>
+    <string name="addrs">Enter your address</string>
+    <string name="btype">Enter your BloodType</string>
+    <string name="pcode">Enter your Pincode</string>
+    <string name="Save">Save</string>
+
+    <!--Strings related to create request-->
+    <string-array name="blood_type">
+        <item>Blood Type</item>
+        <item>A+ve</item>
+        <item>A-ve</item>
+        <item>B+ve</item>
+        <item>B-ve</item>
+        <item>O+ve</item>
+        <item>O-ve</item>
+
+
+    </string-array>
+
+    <string-array name="blood_unit">
+        <item>Unit</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+
+    <string-array name="blood_bank">
+        <item>shyadri</item>
+        <item>sancheti</item>
+        <item>kothrud</item>
+        <item>ruby</item>
+        <item>diamond</item>
+    </string-array>
+
+    <!-- activity test-->
+    <string name="hosp_name">Hospital Name</string>
+    <string name="hosp_add">Kothrud</string>
+    <string name="hosp_no">6789765438</string>
+
+
+
+
+</resources>
+
